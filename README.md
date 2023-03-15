@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a PNG to Text Application.<br>👯 I’m looking to collaborate on any GameDev related project.<br>🌱 I’m currently reading Accelerated C++.<br>⚡ Fun fact: I love chicken and rice.
+🔭 I’m currently working on Blitz 1830.<br>👯 I’m looking to collaborate on any GameDev related project.<br>🌱 I’m currently reading Accelerated C++.<br>⚡ Fun fact: I love chicken and rice.
 
 
 # 💻 Tech Skills:
