@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Blitz 1830.<br>👯 I’m looking to collaborate on any GameDev related project.<br>🌱 I’m currently reading Accelerated C++.<br>⚡ Fun fact: I love chicken and rice.
+🔭 I’m currently working on Bubba's World.<br>👯 I’m looking to collaborate on any GameDev related project.<br>🌱 I’m currently reading Accelerated C++.<br>⚡ Fun fact: I love chicken and rice.
 
 
 # 💻 Tech Skills:
